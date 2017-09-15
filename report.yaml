@@ -1,0 +1,35 @@
+company:
+  name: SAP Next-Gen
+  logo: saplogo.png
+how_might_we: How might we bWith today’s overcrowded classrooms, the ratio of teachers to students prohibits students from receiving enough individual and customized attention. This causes other issues, such as decreasing opportunities for teachers to provide immediate feedback and increasing the level of disengagement from students. This is valid for grade level schools but also for higher education institutions.
+
+
+product_narrative: To address these problems, we hope to use Virtual Reality (VR) or Augmented Reality (AR) to enhance the individual learning experience for students by better visualizing classroom content, allowing them to practice in a more interactive, immersive environment, and receive immediate feedback. 
+
+Students often have to practice new skills. These may include writing in their own language, learning the alphabet of a foreign language, typing on a physical keyboard, drawing and using specific brush strokes, playing sports like ping pong, tennis.
+
+These skills require muscle memory/fine motor movements of hands/fingers and also significant repetition to master these skills. In most cases, students look at examples/are shown how to do the specific task/activity, and copy that example multiple times. While the student is doing that, however, there is no immediate feedback regarding how well he or she has performed. 
+
+At the higher level, a Ph.D student of astrophysics might want to build a virtual twin of an extra-solar planet systems, so that he or she can simulate various scenarios and find the one that explains the data captured through observatories.
+
+The AR product that we have in mind can support performance of such tasks and, when needed, provide the necessary feedback immediately. For example, the student sees the brush stroke on the goggles (beginning, direction, end) and copies that below on paper. AR technology then tracks the shape, speed, etc. and highlights deviation from the expected form. A virtual twin of a planet can be used to quickly pinpoint deviation of its behaviour from the captured data and respectively, adjustments can be made to the virtual twin model to bring it in line with data and create a truthful observable 3D model.
+uild the future of education leveraging VR/AR without de-humanizing the experience of learning causing students to lose touch with core human/reality value systems?
+
+  
+team:
+  picture: teamphoto.JPG
+  roster:
+ - name: Andi Mitre 
+    email: am2886@cornell.edu 
+ - name: Chinmaya Natarajan
+    email: cn327@cornell.edu
+ - name: Iliya Tabakov
+    email: TEAM MEMBER 3 EMAIL
+ - name: Ran Sun
+    email: rs2468@cornell.edu
+ - name: Vivian Ho 
+    email: vdh9@cornell.edu
+
+assets:
+- title: Sprint 1
+  url: URL OF YOUR SPRINT 1 WORK/PRESENTATION
